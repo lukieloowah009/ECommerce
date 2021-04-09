@@ -1,0 +1,86 @@
+﻿<Properties StartupConfiguration="ECommerce">
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Orders PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Products.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Api.Products.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="ECommerce.Api.Customers/Db/CustomersDbContext.cs" Line="3" Column="1" />
+      <File FileName="ECommerce.Api.Customers/Startup.cs" />
+      <File FileName="ECommerce.Api.Customers/Db/Customer.cs" />
+      <File FileName="ECommerce.Api.Products/Db/ProductsDbContext.cs" />
+      <File FileName="ECommerce.Api.Customers/Program.cs" />
+      <File FileName="ECommerce.Api.Products/Startup.cs" />
+      <File FileName="ECommerce.Api.Customers/Models/Customer.cs" />
+      <File FileName="ECommerce.Api.Customers/Interfaces/ICustomersProvider.cs" />
+      <File FileName="ECommerce.Api.Customers/Providers/CustomersProvider.cs" />
+      <File FileName="ECommerce.Api.Products/Providers/ProductsProvider.cs" />
+      <File FileName="ECommerce.Api.Products/Interfaces/IProductsProvider.cs" />
+      <File FileName="ECommerce.Api.Customers/Profiles/CustomerProfile.cs" />
+      <File FileName="ECommerce.Api.Customers/Controllers/CustomersController.cs" />
+      <File FileName="ECommerce.Api.Products/Profiles/ProductProfile.cs" />
+      <File FileName="ECommerce.Api.Products/Controllers/ProductsController.cs" />
+      <File FileName="ECommerce.Api.Customers/Properties/launchSettings.json" />
+      <File FileName="ECommerce.Api.Orders/Interfaces/IOrdersProvider.cs" />
+      <File FileName="ECommerce.Api.Orders/Db/OrdersDbContext.cs" />
+      <File FileName="ECommerce.Api.Orders/Db/Order.cs" />
+      <File FileName="ECommerce.Api.Orders/Db/OrderItem.cs" />
+      <File FileName="ECommerce.Api.Orders/Startup.cs" />
+      <File FileName="ECommerce.Api.Orders/Models/Order.cs" />
+      <File FileName="ECommerce.Api.Orders/Models/OrderItem.cs" />
+      <File FileName="ECommerce.Api.Orders/Providers/OrdersProvider.cs" />
+      <File FileName="ECommerce.Api.Orders/Profiles/OrdersProfile.cs" />
+      <File FileName="ECommerce.Api.Orders/Controllers/OrdersController.cs" />
+      <File FileName="ECommerce.Api.Orders/Properties/launchSettings.json" />
+      <File FileName="ECommerce.Api.Search/Models/SearchTerm.cs" />
+      <File FileName="ECommerce.Api.Search/Interfaces/ISearchService.cs" />
+      <File FileName="ECommerce.Api.Search/Controllers/SearchController.cs" />
+      <File FileName="ECommerce.Api.Search/Services/SearchService.cs" />
+      <File FileName="ECommerce.Api.Search/Startup.cs" />
+      <File FileName="ECommerce.Api.Search/appsettings.json" />
+      <File FileName="ECommerce.Api.Products/Properties/launchSettings.json" />
+      <File FileName="ECommerce.Api.Search/Properties/launchSettings.json" />
+      <File FileName="ECommerce.Api.Search/Models/Order.cs" />
+      <File FileName="ECommerce.Api.Search/Models/OrderItem.cs" />
+      <File FileName="ECommerce.Api.Search/Interfaces/IOrdersService.cs" />
+      <File FileName="ECommerce.Api.Search/Services/OrdersService.cs" />
+      <File FileName="ECommerce.Api.Search/Program.cs" />
+      <File FileName="ECommerce.Api.Customers/appsettings.json" />
+      <File FileName="ECommerce.Api.Search/Models/Product.cs" />
+      <File FileName="ECommerce.Api.Products/Models/Product.cs" />
+      <File FileName="ECommerce.Api.Search/Interfaces/IProductsService.cs" />
+      <File FileName="ECommerce.Api.Search/Services/ProductsService.cs" />
+      <File FileName="ECommerce.Api.Search/Interfaces/ICustomersService.cs" />
+      <File FileName="ECommerce.Api.Search/Models/Customer.cs" />
+      <File FileName="ECommerce.Api.Search/Services/CustomersService.cs" />
+      <File FileName="ECommerce.Api.Products/Program.cs" />
+      <File FileName="ECommerce.Api.Products.Tests/UnitTest1.cs" Line="13" Column="37" />
+      <File FileName="ECommerce.Api.Products/Db/Products.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerce" expanded="True">
+            <Node name="ECommerce.Api.Products.Tests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Products PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Customers PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Search PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="ECommerce" Name="ECommerce">
+      <Items>
+        <StartupItem ItemId="{C2B05224-CED2-4CD7-8BDA-40461AD2C9D6}" ItemName="ECommerce.Api.Search" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
